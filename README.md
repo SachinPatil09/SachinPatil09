@@ -8,8 +8,8 @@
 
 * 🎓 Pursuing B.E. in Computer Science & Engineering (ICB)
 * 💻 Interested in Software Development and Problem Solving
-* 🌱 Currently improving my skills in Java, Spring Boot and Full-Stack Development
-* 🧠 Interested in AI, Blockchain and Backend Development
+* 🌱 Currently improving my skills in Java, Spring Boot and Full-Stack Development , cybersecurity
+* 🧠 Interested in AI, cybersecurity , Blockchain and Backend Development
 * 🔥 Actively practicing Data Structures & Algorithms
 
 ## 🛠️ Tech Stack
