@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin Patil
 
-🎓 Computer Science & Engineering (ICB) Student
-💻 Aspiring Software Developer
+🎓 Computer Science & Engineering (ICB) Student  
+💻 Aspiring Software Developer  
 🚀 Passionate about Backend & Full-Stack Development
 
 ## 👨‍💻 About Me
@@ -14,19 +14,22 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Java • C • C++ • SQL • JavaScript
+**Languages**  
+Java • C • C++ • SQL • JavaScript • Python
 
-**Backend**
+**Backend**  
 Spring Boot • Hibernate • JPA • REST APIs
 
-**Frontend**
-React.js • HTML5 • CSS3
+**Frontend**  
+React.js • HTML5 • CSS3 • Streamlit
 
-**Databases**
+**AI & Machine Learning**  
+Retrieval-Augmented Generation (RAG) • LLM Integration • Groq API
+
+**Databases**  
 MySQL • PostgreSQL
 
-**Tools**
+**Tools**  
 Git • GitHub • VS Code • IntelliJ IDEA • Postman
 
 ## 🧩 Problem Solving
@@ -44,31 +47,31 @@ I regularly practice Data Structures & Algorithms on LeetCode.
 
 ### 🛒 E-Commerce Application
 
-**Spring Boot • Hibernate • JPA • PostgreSQL • Spring AI**
+**Spring Boot • Hibernate • JPA • PostgreSQL**
 
-* Developed RESTful APIs
-* Implemented CRUD operations
-* Authentication and role-based authorization
-* AI-assisted product recommendations and intelligent search
-* Integrated PostgreSQL using Spring Data JPA
+* Developed RESTful APIs for product, category, cart and order management.
+* Implemented CRUD operations and authentication with role-based authorization.
+* Integrated PostgreSQL using Spring Data JPA.
+* Worked on backend architecture and API testing using Postman.
 
-### 🔨 Auction Management System
+### 🤖 SmartDoc – AI-Powered Contextual Knowledge Assistant
 
-**Spring Boot • Hibernate • PostgreSQL • Spring AI**
+**Python • Streamlit • RAG • Groq API • LLM**
 
-* Developed auction and bid management APIs
-* Implemented CRUD operations for users, auctions and bids
-* Authentication and role-based access control
-* AI-powered auction recommendations and intelligent search
+* Developed an AI-powered knowledge assistant using Retrieval-Augmented Generation (RAG).
+* Implemented document processing and question answering over uploaded PDF, TXT, CSV and Markdown files.
+* Integrated YouTube transcripts and comments to enable contextual question answering.
+* Used Groq-powered LLM integration to generate context-aware responses based on retrieved information.
+* Built an interactive Streamlit interface for document and YouTube-based knowledge retrieval.
 
 ### 👤 Attendance Monitoring System
 
 **Python • OpenCV • Ethereum • Ganache • Solidity**
 
-* Developed a facial-recognition-based attendance system
-* Implemented real-time face detection and recognition
-* Integrated Ethereum blockchain for tamper-proof attendance records
-* Used Solidity smart contracts for secure attendance logging
+* Developed a facial-recognition-based attendance system.
+* Implemented real-time face detection and recognition.
+* Integrated Ethereum blockchain for tamper-proof attendance records.
+* Used Solidity smart contracts for secure attendance logging.
 
 ## 🏆 Achievements
 
