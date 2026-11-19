@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering (ICB) Student  
 💻 Aspiring Software Developer  
-🚀 Passionate about Backend & Full-Stack Development
+🚀 Passionate about Cybersecurity ,  Backend & Full-Stack Development
 
 ## 👨‍💻 About Me
 
